@@ -61,8 +61,12 @@ html {
   }
 
   a:hover{
-    background-color: #930f00;
-    width: 100%;
+    color: #000000;
+    background-color: #ff7525;
+    /* width: 110%; */
+    margin-left: 10px;
+    margin-right: 10px;
+    /* width: 100%; */
   }
   .lines{
     width: 0;
