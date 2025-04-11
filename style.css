@@ -62,7 +62,7 @@ html {
 
   a:hover{
     background-color: #930f00;
-    width: 11vw;
+    width: 100%;
   }
   .lines{
     width: 0;
@@ -89,7 +89,7 @@ html {
       width: 30%;
       flex-direction: column;
       justify-content: end;
-      height: 230px;
+      height: 270px;
       top: -40vh;
       background-color: #181818;
     }
